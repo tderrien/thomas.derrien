@@ -67,4 +67,6 @@ subtitle = "Recents"
  
  # CSS class.
  css_class = ""
+
+We have some **news** here [come](http://www.google.fr).
 +++
