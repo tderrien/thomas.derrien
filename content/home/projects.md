@@ -8,9 +8,6 @@ weight = 65  # Order that this section will appear.
 title = "Genome Annotation"
 subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
 
-title = "Transcriptome sequencing"
-subtitle = "Long read sequencing with nanopore"
-
 
 [content]
   # Page type to display. E.g. project.
