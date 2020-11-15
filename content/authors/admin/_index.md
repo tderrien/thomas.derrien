@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - Postdoctoral researcher:  in Prof Roderic Guigó s team 
-    institution: CRG (Barcelonan, SP)
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     year: 2008
-  - PhD in comparative genomics
-    institution: UMR6061 (Rennes, FR)
-    year: 2004
-  - course: Master in bioinformatics 
-    institution: Master EGOISt (Rouen - FR)
-    year: 2002 
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tderrien@univ-rennes1.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:tderrien@univ-rennes1.fr"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ThomasDerrien7
