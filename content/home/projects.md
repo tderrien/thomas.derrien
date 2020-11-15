@@ -27,7 +27,7 @@ subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
      tag = "*"
   
    [[content.filter_button]]
-     name = FEELnc"
+     name = "FEELnc"
      tag = "FEELnc"
      url = "https://github.com/tderrien/FEELnc"
   
