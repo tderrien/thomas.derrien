@@ -66,4 +66,5 @@ subtitle = "News"
  # CSS class.
  css_class = ""
 +++
-We have new position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
+ - We have a new postodoc position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
+ - Feel free to contact us if your are interested in bioinformatics and long read sequencing strategies.
