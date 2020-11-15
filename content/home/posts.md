@@ -12,7 +12,6 @@ subtitle = "Recents"
 
 #### My Title
 
-We have some **news** here [come](http://www.google.fr).
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
