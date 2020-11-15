@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - Postdoctoral researcher:  in Prof Roderic Guigó's team 
+  - Postdoctoral researcher:  in Prof Roderic Guigó s team 
     institution: CRG (Barcelonan, SP)
     year: 2008
   - PhD in comparative genomics
