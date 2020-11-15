@@ -11,6 +11,5 @@ view: 2
 header:
   caption: ""
   image: ""
-
-We have new position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
 ---
+We have new position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
