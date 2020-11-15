@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Genome Annotation"
-subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
+title = "Projects"
+subtitle = "Genome Annotation"
 
 
 [content]
@@ -35,6 +35,14 @@ subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
      name = "Nanopore Sequencing"
      tag = "ONT"
      url = "https://gitlab.com/tderrien/igdrion"
+   [[content.filter_button]]
+     name = "Deep Learning"
+     tag = "DL"
+     url = "https://github.com/calico/basenji"
+[[content.filter_button]]
+     name = "Dog NGS"
+     tag = "DogNGS"
+     url = ""          
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -79,6 +87,7 @@ subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
 +++
 
 - LncRNA Annotation and classification with [FEELnc](https://github.com/tderrien/FEELnc).
-- Long-read sequencing with Oxford Nnaopore Technologies.
-- Deep Learning techniques for gene expression predictions and testing the impact of non-coding mutations.
+- Long-read sequencing with Oxford Nanopore Technologies (ONT) at [IGDR gitlab](https://gitlab.com/tderrien/igdrion).
+- Deep Learning techniques for [gene expression predictions](https://github.com/calico/basenji) and testing the impact of non-coding mutations.
+- NGS analysis for analysis of cancers in dogs (Melanoma and Sarcoma).
 
