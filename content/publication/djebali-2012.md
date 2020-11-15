@@ -1,0 +1,50 @@
+@article{Djebali2012, abstract = {Eukaryotic cells make many types of
+primary and processed RNAs that are found either in specific subcellular
+compartments or throughout the cells. A complete catalogue of these RNAs
+is not yet available and their characteristic subcellular localizations
+are also poorly understood. Because RNA represents the direct output of
+the genetic information encoded by genomes and a significant proportion
+of a cell's regulatory capabilities are focused on its synthesis,
+processing, transport, modification and translation, the generation of
+such a catalogue is crucial for understanding genome function. Here we
+report evidence that three-quarters of the human genome is capable of
+being transcribed, as well as observations about the range and levels of
+expression, localization, processing fates, regulatory regions and
+modifications of almost all currently annotated and thousands of
+previously unannotated RNAs. These observations, taken together, prompt
+a redefinition of the concept of a gene.}, author = {Djebali, Sarah and
+Davis, Carrie A and Merkel, Angelika and Dobin, Alex and Lassmann, Timo
+and Mortazavi, Ali and Tanzer, Andrea and Lagarde, Julien and Lin, Wei
+and Schlesinger, Felix and Xue, Chenghai and Marinov, Georgi K and
+Khatun, Jainab and Williams, Brian A and Zaleski, Chris and Rozowsky,
+Joel and Roder, Maik and Kokocinski, Felix and Abdelhamid, Rehab F and
+Alioto, Tyler and Antoshechkin, Igor and Baer, Michael T and Bar, Nadav
+S and Batut, Philippe and Bell, Kimberly and Bell, Ian and Chakrabortty,
+Sudipto and Chen, Xian and Chrast, Jacqueline and Curado, Joao and
+Derrien, Thomas and Drenkow, Jorg and Dumais, Erica and Dumais,
+Jacqueline and Duttagupta, Radha and Falconnet, Emilie and Fastuca,
+Meagan and Fejes-Toth, Kata and Ferreira, Pedro and Foissac, Sylvain and
+Fullwood, Melissa J and Gao, Hui and Gonzalez, David and Gordon, Assaf
+and Gunawardena, Harsha and Howald, Cedric and Jha, Sonali and Johnson,
+Rory and Kapranov, Philipp and King, Brandon and Kingswood, Colin and
+Luo, Oscar J and Park, Eddie and Persaud, Kimberly and Preall, Jonathan
+B and Ribeca, Paolo and Risk, Brian and Robyr, Daniel and Sammeth,
+Michael and Schaffer, Lorian and See, Lei-Hoon and Shahab, Atif and
+Skancke, Jorgen and Suzuki, Ana Maria and Takahashi, Hazuki and Tilgner,
+Hagen and Trout, Diane and Walters, Nathalie and Wang, Huaien and
+Wrobel, John and Yu, Yanbao and Ruan, Xiaoan and Hayashizaki, Yoshihide
+and Harrow, Jennifer and Gerstein, Mark and Hubbard, Tim and Reymond,
+Alexandre and Antonarakis, Stylianos E and Hannon, Gregory and Giddings,
+Morgan C and Ruan, Yijun and Wold, Barbara and Carninci, Piero and
+Guigo, Roderic and Gingeras, Thomas R}, doi = {10.1038/nature11233},
+issn = {1476-4687 (Electronic)}, journal = {Nature}, keywords =
+{Alleles,Cell Line,DNA,DNA, Intergenic,Encyclopedias as Topic,Enhancer
+Elements, Genetic,Exons,Gene Expression Profiling,Genes,Genome,
+Human,Genomics,Humans,Molecular Sequence
+Annotation,Polyadenylation,Protein Isoforms,RNA,RNA Editing,RNA
+Splicing,Regulatory Sequences, Nucleic Acid,Repetitive Sequences,
+Nucleic Acid,Sequence Analysis, RNA,Transcription,
+Genetic,Transcriptome,biosynthesis,genetics}, language = {eng}, month =
+{sep}, number = {7414}, pages = {101--108}, pmid = {22955620}, title =
+{Landscape of transcription in human cells.}, volume = {489}, year =
+{2012} }

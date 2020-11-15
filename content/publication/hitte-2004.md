@@ -1,0 +1,20 @@
+@article{Hitte2004, abstract = {UNLABELLED: CRH\_Server is an on line
+Comparative and Radiation Hybrid mapping Server dedicated to canine
+genomics. CRH\_Server allows users to compute their own RH data using
+the current canine RH map, and allows comparative dog/human mapping
+analyses. Finally, it suggests multiple options for storage and queries
+of the dog RH database. AVAILABILITY:
+http://idefix.univ-rennes1.fr:8080/Dogs/rh-server.html. SUPPLEMENTARY
+INFORMATION: All information is available at
+http://idefix.univ-rennes1.fr:8080/Dogs/help\_rh-server.html.}, author =
+{Hitte, Christophe and Derrien, Thomas and Andre, Catherine and
+Ostrander, Elaine A and Galibert, Francis}, doi =
+{10.1093/bioinformatics/bth411}, issn = {1367-4803 (Print)}, journal =
+{Bioinformatics (Oxford, England)}, keywords =
+{Algorithms,Animals,Chromosome Mapping,DNA Mutational
+Analysis,Dogs,Internet,Online Systems,Sequence Alignment,Sequence
+Analysis, DNA,Software,User-Computer Interface,genetics,methods},
+language = {eng}, month = {dec}, number = {18}, pages = {3665--3667},
+pmid = {15256409}, title = {CRH\_Server: an online comparative and
+radiation hybrid mapping server for the canine genome.}, volume = {20},
+year = {2004} }
