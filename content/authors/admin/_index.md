@@ -14,13 +14,13 @@ organizations:
   url: https://igdr.univ-rennes1.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational biology/bioinformatics, (dog) transcriptome sequencing (short and long reads), machine learning and lncRNAs.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Transcriptome sequencing and lncRNAs
+- Machine Learning
+- Canine genomics
 
 # Education to show in About widget
 education:
