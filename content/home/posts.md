@@ -66,3 +66,4 @@ subtitle = "Recents"
  # CSS class.
  css_class = ""
 +++
+We have new position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
