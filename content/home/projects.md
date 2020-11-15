@@ -8,7 +8,7 @@ weight = 65  # Order that this section will appear.
 title = "Genome annotation"
 subtitle = "lncRNAs"
 
-[FEELnc](https://github.com/tderrien/FEELnc): Annotation of lncRNAs in model and non-model species
+Annotation of lncRNAs in model and non-model species with [FEELnc](https://github.com/tderrien/FEELnc): 
 
 [content]
   # Page type to display. E.g. project.
