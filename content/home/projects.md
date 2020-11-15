@@ -5,8 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Genome annotation"
-subtitle = "lncRNAs"
+title = "Transcriptome sequencing"
+subtitle = "lncRNAs annotation with FEELnc"
+subtitle = "Gene expression prediction using Deep Learning"
+
 
 [content]
   # Page type to display. E.g. project.
