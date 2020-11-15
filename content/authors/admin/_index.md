@@ -74,5 +74,3 @@ user_groups:
 
 I'm CNRS researcher at [IGDR](https://igdr.univ-rennes1.fr/en) in the [Canine Genetics Team](http://dog-genetics.genouest.org/en/home-3/). I'm particularly interested in  transcritpome sequencing (short and long reads), lncRNAs annotation and machine learning.
 
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
