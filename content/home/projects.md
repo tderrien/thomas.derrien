@@ -78,3 +78,7 @@ subtitle = "lncRNAs and mRNAs annotation and classificationwith FEELnc"
  css_class = ""
 +++
 
+- LncRNA Annotation and classification with [FEELnc](https://github.com/tderrien/FEELnc).
+- Long-read sequencing with Oxford Nnaopore Technologies.
+- Deep Learning techniques for gene expression predictions and testing the impact of non-coding mutations.
+
