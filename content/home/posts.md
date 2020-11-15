@@ -10,7 +10,6 @@ weight = 60  # Order that this section will appear.
 title = "News"
 subtitle = "Recents"
 
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
