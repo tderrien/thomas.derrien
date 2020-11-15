@@ -72,7 +72,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm CNRS researcher at IGDR in the Canine Genetics Team. I'm particularly interested in  transcritpome sequencing (short and long reads), lncRNAs annotation and machine learning.
+I'm CNRS researcher at IGDR in the [Canine Genetics Team](http://dog-genetics.genouest.org/en/home-3/). I'm particularly interested in  transcritpome sequencing (short and long reads), lncRNAs annotation and machine learning.
 
 #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
