@@ -25,16 +25,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - Postdoctoral researcher:  in Prof Roderic Guigó's team 
+    institution: CRG (Barcelonan, SP)
     year: 2008
-
+  - PhD in comparative genomics
+    institution: UMR6061 (Rennes, FR)
+    year: 2004
+  - course: Master in bioinformatics 
+    institution: Master EGOISt (Rouen - FR)
+    year: 2002 
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -42,20 +42,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:tderrien@univ-rennes1.fr'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ThomasDerrien7
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?hl=fr&pli=1&user=nm4pY-gAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
+  link: https://github.com/tderrien
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
