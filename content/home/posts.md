@@ -10,7 +10,6 @@ weight = 60  # Order that this section will appear.
 title = "News"
 subtitle = "Recents"
 
-#### My Title
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,6 +66,4 @@ subtitle = "Recents"
  
  # CSS class.
  css_class = ""
-
-We have some **news** here [come](http://www.google.fr).
 +++
