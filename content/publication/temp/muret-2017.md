@@ -1,4 +1,3 @@
-+++
 @article{Muret2017, abstract = {BACKGROUND: Improving functional
 annotation of the chicken genome is a key challenge in bridging the gap
 between genotype and phenotype. Among all transcribed regions, long
@@ -50,4 +49,3 @@ Messenger,Transcriptome,chemistry,genetics,metabolism}, language =
 {eng}, month = {jan}, number = {1}, pages = {6}, pmid = {28073357},
 title = {Long noncoding RNA repertoire in chicken liver and adipose
 tissue.}, volume = {49}, year = {2017} }
-+++
