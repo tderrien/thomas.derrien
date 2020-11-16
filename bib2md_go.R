@@ -45,7 +45,7 @@ bibtex_2academic <- function(bibfile,
       x[["date"]] <- "2999-01-01"
     }
 
-    filename <- paste(x[["date"]], x[["title"]] %>%
+    filename <- paste(x[["date"]], x[["author"]] %>%
                         str_replace_all(fixed(" "), "_") %>%
                         str_remove_all(fixed(":")) %>%
                         str_sub(1, 20) %>%
