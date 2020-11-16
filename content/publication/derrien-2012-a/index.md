@@ -1,0 +1,47 @@
+---
+title: 'Annotation of the domestic dog genome sequence: finding the missing genes.'
+date: '2012-02-01'
+draft: false
+publishDate: '2020-11-16T09:03:59.307267Z'
+authors:
+- Thomas Derrien
+- Amaury Vaysse
+- Catherine Andre
+- Christophe Hitte
+publication_types:
+- '2'
+abstract: There are over 350 genetically distinct breeds of domestic dog that present
+  considerable variation in morphology, physiology, and disease susceptibility. The
+  genome sequence of the domestic dog was assembled and released in 2005, providing
+  an estimated 20,000 protein-coding genes that are a great asset to the scientific
+  community that uses the dog system as a genetic biomedical model and for comparative
+  and evolutionary studies. Although the canine gene set had been predicted using
+  a combination of ab initio methods, homology studies, motif analysis, and similarity-based
+  programs, it still requires a deep annotation of noncoding genes, alternative splicing,
+  pseudogenes, regulatory regions, and gain and loss events. Such analyses could benefit
+  from new sequencing technologies (RNA-Seq) to better exploit the advantages of the
+  canine genetic system in tracking disease genes. Here, we review the catalog of
+  canine protein-coding genes and the search for missing genes, and we propose rationales
+  for an accurate identification of noncoding genes though next-generation sequencing.
+featured: false
+publication: '*Mammalian genome : official journal of the International Mammalian
+  Genome Society*'
+tags:
+- '"Animals"'
+- '"Base Sequence"'
+- '"Chromosome Mapping"'
+- '"Dogs"'
+- '"Evolution"'
+- '"Molecular"'
+- '"Genetic Variation"'
+- '"Genome"'
+- '"Molecular Sequence Annotation"'
+- '"Polymorphism"'
+- '"Single Nucleotide"'
+- '"Proteins"'
+- '"Sequence Analysis"'
+- '"DNA"'
+- '"genetics"'
+doi: 10.1007/s00335-011-9372-0
+---
+
