@@ -40,5 +40,6 @@ featured: false
 publication: '*Genes*'
 url_pdf: https://www.mdpi.com/2073-4425/10/6/477
 doi: 10.3390/genes10060477
+view: 4
 ---
 
