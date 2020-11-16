@@ -9,8 +9,8 @@ authors:
 - Catherine Andre
 - Christophe Hitte
 publication_types:
-- '2'
-abstract: There are over 350 genetically distinct breeds of domestic dog that present
+- 2
+abstract: 'There are over 350 genetically distinct breeds of domestic dog that present
   considerable variation in morphology, physiology, and disease susceptibility. The
   genome sequence of the domestic dog was assembled and released in 2005, providing
   an estimated 20,000 protein-coding genes that are a great asset to the scientific
@@ -22,26 +22,11 @@ abstract: There are over 350 genetically distinct breeds of domestic dog that pr
   from new sequencing technologies (RNA-Seq) to better exploit the advantages of the
   canine genetic system in tracking disease genes. Here, we review the catalog of
   canine protein-coding genes and the search for missing genes, and we propose rationales
-  for an accurate identification of noncoding genes though next-generation sequencing.
+  for an accurate identification of noncoding genes though next-generation sequencing.'
 featured: false
 publication: '*Mammalian genome : official journal of the International Mammalian
   Genome Society*'
-tags:
-- '"Animals"'
-- '"Base Sequence"'
-- '"Chromosome Mapping"'
-- '"DNA"'
-- '"Dogs"'
-- '"Evolution"'
-- '"Genetic Variation"'
-- '"genetics"'
-- '"Genome"'
-- '"Molecular"'
-- '"Molecular Sequence Annotation"'
-- '"Polymorphism"'
-- '"Proteins"'
-- '"Sequence Analysis"'
-- '"Single Nucleotide"'
+tags: ["compgen"]
 doi: 10.1007/s00335-011-9372-0
 ---
 
