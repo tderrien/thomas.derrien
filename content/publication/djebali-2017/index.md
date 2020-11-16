@@ -11,7 +11,7 @@ authors:
 - Erwan Corre
 - Thomas Derrien
 publication_types:
-- '2'
+- '5'
 abstract: ''
 featured: false
 publication: '*Methods in molecular biology (Clifton, N.J.)*'

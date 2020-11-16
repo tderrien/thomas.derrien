@@ -56,7 +56,7 @@ abstract: The human genome contains many thousands of long noncoding RNAs (lncRN
   show particularly striking positive correlation with the expression of antisense
   coding genes. This GENCODE annotation represents a valuable resource for future
   studies of lncRNAs.
-featured: false
+featured: true
 publication: '*Genome research*'
 tags:
 - '"Alternative Splicing"'

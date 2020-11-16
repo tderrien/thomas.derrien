@@ -36,7 +36,7 @@ abstract: Mucosal melanomas (MM) are rare aggressive cancers in humans, and one 
   transcriptomic resource for studying oral melanoma in dogs, and highlights lncRNAs
   that may potentially be diagnostic or therapeutic targets for human and veterinary
   medicine.
-featured: false
+featured: true
 publication: '*Genes*'
 url_pdf: https://www.mdpi.com/2073-4425/10/6/477
 doi: 10.3390/genes10060477

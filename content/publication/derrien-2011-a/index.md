@@ -7,7 +7,7 @@ authors:
 - Thomas Derrien
 - Roderic Guigo
 publication_types:
-- '0'
+- '2'
 abstract: ''
 featured: false
 publication: '*Medecine sciences : M/S*'

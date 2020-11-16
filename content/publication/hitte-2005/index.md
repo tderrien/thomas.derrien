@@ -31,7 +31,7 @@ authors:
 - Elaine A Ostrander
 - Francis Galibert
 publication_types:
-- '0'
+- '2'
 abstract: Accurate and comprehensive sequence coverage for large genomes has been
   restricted to only a few species of specific interest. Lower sequence coverage (survey
   sequencing) of related species can yield a wealth of information about gene content
