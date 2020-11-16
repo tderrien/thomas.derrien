@@ -1,0 +1,139 @@
+---
+title: Third Report on Chicken Genes and Chromosomes 2015.
+date: '2015-01-01'
+draft: true
+publishDate: '2020-11-15T23:59:21.783957Z'
+authors:
+- Michael Schmid
+- Jacqueline Smith
+- David W Burt
+- Bronwen L Aken
+- Parker B Antin
+- Alan L Archibald
+- Chris Ashwell
+- Perry J Blackshear
+- Clarissa Boschiero
+- C Titus Brown
+- Shane C Burgess
+- Hans H Cheng
+- William Chow
+- Derrick J Coble
+- Amanda Cooksey
+- Richard P M A Crooijmans
+- Joana Damas
+- Richard V N Davis
+- Dirk-Jan de Koning
+- Mary E Delany
+- Thomas Derrien
+- Takele T Desta
+- Ian C Dunn
+- Matthew Dunn
+- Hans Ellegren
+- Lel Eory
+- Ionas Erb
+- Marta Farre
+- Mario Fasold
+- Damarius Fleming
+- Paul Flicek
+- Katie E Fowler
+- Laure Fresard
+- David P Froman
+- Valerie Garceau
+- Paul P Gardner
+- Almas A Gheyas
+- Darren K Griffin
+- Martien A M Groenen
+- Thomas Haaf
+- Olivier Hanotte
+- Alan Hart
+- Julien Hasler
+- S Blair Hedges
+- Jana Hertel
+- Kerstin Howe
+- Allen Hubbard
+- David A Hume
+- Pete Kaiser
+- Darek Kedra
+- Stephen J Kemp
+- Christophe Klopp
+- Kalmia E Kniel
+- Richard Kuo
+- Sandrine Lagarrigue
+- Susan J Lamont
+- Denis M Larkin
+- Raman A Lawal
+- Sarah M Markland
+- Fiona McCarthy
+- Heather A McCormack
+- Marla C McPherson
+- Akira Motegi
+- Stefan A Muljo
+- Andrea Munsterberg
+- Rishi Nag
+- Indrajit Nanda
+- Michael Neuberger
+- Anne Nitsche
+- Cedric Notredame
+- Harry Noyes
+- Rebecca O'Connor
+- Elizabeth A O'Hare
+- Andrew J Oler
+- Sheila C Ommeh
+- Helio Pais
+- Michael Persia
+- Frederique Pitel
+- Likit Preeyanon
+- Pablo Prieto Barja
+- Elizabeth M Pritchett
+- Douglas D Rhoads
+- Charmaine M Robinson
+- Michael N Romanov
+- Max Rothschild
+- Pierre-Francois Roux
+- Carl J Schmidt
+- Alisa-Sophia Schneider
+- Matthew G Schwartz
+- Steve M Searle
+- Michael A Skinner
+- Craig A Smith
+- Peter F Stadler
+- Tammy E Steeves
+- Claus Steinlein
+- Liang Sun
+- Minoru Takata
+- Igor Ulitsky
+- Qing Wang
+- Ying Wang
+- Wesley C Warren
+- Jonathan M D Wood
+- David Wragg
+- Huaijun Zhou
+publication_types:
+- '2'
+abstract: ''
+featured: false
+publication: '*Cytogenetic and genome research*'
+tags:
+- '"Animals"'
+- '"Chickens"'
+- '"Chromosome Mapping"'
+- '"Chromosomes"'
+- '"classification"'
+- '"DNA Methylation"'
+- '"Evolution"'
+- '"Female"'
+- '"Fluorescence"'
+- '"Gene Expression Profiling"'
+- '"Genetic Variation"'
+- '"genetics"'
+- '"Genomics"'
+- '"In Situ Hybridization"'
+- '"Male"'
+- '"methods"'
+- '"Molecular"'
+- '"Molecular Sequence Annotation"'
+- '"Phylogeny"'
+- '"physiology"'
+doi: 10.1159/000430927
+---
+
