@@ -3,11 +3,14 @@ title: 'Annotation of the domestic dog genome sequence: finding the missing gene
 date: '2012-02-01'
 draft: true
 publishDate: '2020-11-15T23:59:21.345168Z'
+subtitle: ''
+summary: ''
 authors:
 - Thomas Derrien
 - Amaury Vaysse
 - Catherine Andre
 - Christophe Hitte
+featured: false
 publication_types:
 - 2
 abstract: 'There are over 350 genetically distinct breeds of domestic dog that present
@@ -23,7 +26,6 @@ abstract: 'There are over 350 genetically distinct breeds of domestic dog that p
   canine genetic system in tracking disease genes. Here, we review the catalog of
   canine protein-coding genes and the search for missing genes, and we propose rationales
   for an accurate identification of noncoding genes though next-generation sequencing.'
-featured: false
 publication: '*Mammalian genome : official journal of the International Mammalian
   Genome Society*'
 doi: 10.1007/s00335-011-9372-0
