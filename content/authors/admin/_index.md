@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/ThomasDerrien7
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.fr/citations?hl=fr&pli=1&user=nm4pY-gAAAAJ
+  link: https://scholar.google.fr/citations?hl=en&pli=1&user=nm4pY-gAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tderrien

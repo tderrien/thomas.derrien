@@ -86,8 +86,15 @@ subtitle = "Genome Annotation"
  css_class = ""
 +++
 
-- LncRNA Annotation and classification with [FEELnc](https://github.com/tderrien/FEELnc).
-- Long-read sequencing with Oxford Nanopore Technologies (ONT) at [IGDR gitlab](https://gitlab.com/tderrien/igdrion).
-- Deep Learning techniques for [gene expression predictions](https://github.com/calico/basenji) and testing the impact of non-coding mutations.
-- NGS analysis for analysis of cancers in dogs (Melanoma and Sarcoma).
+## Genome Annotation 
+  - LncRNA Annotation and classification with [FEELnc](https://github.com/tderrien/FEELnc).
+  - LncRNAs characterisation in canine cancers.
+  - Long-read sequencing with Oxford Nanopore Technologies (ONT) at [IGDR gitlab](https://gitlab.com/tderrien/igdrion).
+
+## Deep Learning for genomics
+  - Using DL methods for [gene expression predictions](https://github.com/calico/basenji) and testing the impact of non-coding mutations.
+
+## NGS analysis for canine cancers 
+  - Mutations and CNAs analysis for mucosal melanoma (MM) and Hystiocytic Sarcoma (HS)).
+  - Unsupervised clustering of dog patients using NMF method.
 
