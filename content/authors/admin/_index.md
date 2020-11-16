@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/ThomasDerrien7
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.no/citations?user=3BsdBosAAAAJ&hl=en
+  link: https://scholar.google.fr/citations?hl=fr&pli=1&user=nm4pY-gAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tderrien
@@ -72,5 +72,5 @@ user_groups:
 - Principal Investigators
 ---
 
-I'm CNRS researcher at [IGDR](https://igdr.univ-rennes1.fr/en) in the [Canine Genetics Team](http://dog-genetics.genouest.org/en/home-3/). I'm particularly interested in  transcritpome sequencing (short and long reads), lncRNAs annotation and machine learning.
+I'm CNRS researcher at [IGDR](https://igdr.univ-rennes1.fr/en) in the [Canine Genetics Team](http://dog-genetics.genouest.org/en/home-3/). I'm particularly interested in  transcritpome sequencing (short and long reads), lncRNAs annotation with the [FEELnc program](https://github.com/tderrien/FEELnc) and deep learning for genomics.
 
