@@ -26,7 +26,7 @@ abstract: 'There are over 350 genetically distinct breeds of domestic dog that p
 featured: false
 publication: '*Mammalian genome : official journal of the International Mammalian
   Genome Society*'
-tags: ["compgen"]
+# tags: ["compgen"]
 doi: 10.1007/s00335-011-9372-0
 ---
 
