@@ -45,7 +45,7 @@ abstract: Whole transcriptome sequencing (RNA-seq) has become a standard for cat
   to substantially expand the canine genome annotation to include 10 374 novel lncRNAs
   and 58 640 mRNA transcripts. FEELnc moves beyond conventional coding potential classifiers
   by providing a standardized and complete solution for annotating lncRNAs and is
-  freely available at https://github.com/tderrien/FEELnc.$backslash$r$backslash$n
+  freely available at https://github.com/tderrien/FEELnc
 featured: true
 publication: '*Nucleic Acids Research*'
 doi: 10.1093/nar/gkw1306
