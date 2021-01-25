@@ -2,7 +2,6 @@
 title: Circulating tumor DNA is detectable in canine histiocytic sarcoma, oral malignant
   melanoma, and multicentric lymphoma
 date: '2021-12-01'
-draft: true
 publishDate: '2021-01-25T15:17:23.095615Z'
 authors:
 - Anäis Prouteau

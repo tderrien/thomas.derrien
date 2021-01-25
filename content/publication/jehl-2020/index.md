@@ -1,53 +1,55 @@
 ---
-title: 'FEELnc: A tool for long non-coding RNA annotation and its application to the
-  dog transcriptome'
-date: '2017-01-01'
-draft: false
-publishDate: '2020-11-16T09:04:00.386513Z'
+title: An integrative atlas of chicken long non-coding genes and their annotations
+  across 25 tissues
+date: '2020-12-01'
+draft: true
+publishDate: '2021-01-25T17:38:16.841553Z'
 authors:
-- Valentin Wucher
-- Fabrice Legeai
-- Benoît Hédan
-- Guillaume Rizk
+- Frédéric Jehl
+- Kévin Muret
+- Maria Bernard
+- Morgane Boutin
 - Laetitia Lagoutte
-- Tosso Leeb
-- Vidhya Jagannathan
-- Edouard Cadieu
-- Audrey David
-- Hannes Lohi
-- Susanna Cirera
-- Merete Fredholm
-- Nadine Botherel
-- Peter A.J. Leegwater
-- Céline Le Béguec
-- Hille Fieten
-- Jeremy Johnson
-- Jessica Alföldi
-- Catherine André
-- Kerstin Lindblad-Toh
-- Christophe Hitte
+- Colette Désert
+- Patrice Dehais
+- Diane Esquerré
+- Hervé Acloque
+- Elisabetta Giuffra
+- Sarah Djebali
+- Sylvain Foissac
 - Thomas Derrien
+- Frédérique Pitel
+- Tatiana Zerjal
+- Christophe Klopp
+- Sandrine Lagarrigue
 publication_types:
 - '2'
-abstract: Whole transcriptome sequencing (RNA-seq) has become a standard for cataloguing
-  and monitoring RNA populations. One of the main bottlenecks, however, is to correctly
-  identify the different classes of RNAs among the plethora of reconstructed transcripts,
-  particularly those that will be translated (mRNAs) from the class of long non-coding
-  RNAs (lncRNAs). Here, we present FEELnc (FlExible Extraction of LncRNAs), an alignment-free
-  program that accurately annotates lncRNAs based on a Random Forest model trained
-  with general features such as multi k-mer frequencies and relaxed open reading frames.
-  Benchmarking versus five state-of-the-art tools shows that FEELnc achieves similar
-  or better classification performance on GENCODE and NONCODE data sets. The program
-  also provides specific modules that enable the user to fine-tune classification
-  accuracy, to formalize the annotation of lncRNA classes and to identify lncRNAs
-  even in the absence of a training set of non-coding RNAs. We used FEELnc on a real
-  data set comprising 20 canine RNA-seq samples produced by the European LUPA consortium
-  to substantially expand the canine genome annotation to include 10 374 novel lncRNAs
-  and 58 640 mRNA transcripts. FEELnc moves beyond conventional coding potential classifiers
-  by providing a standardized and complete solution for annotating lncRNAs and is
-  freely available at https://github.com/tderrien/FEELnc.$backslash$r$backslash$n
-featured: true
-publication: '*Nucleic Acids Research*'
-doi: 10.1093/nar/gkw1306
+abstract: Long non-coding RNAs (LNC) regulate numerous biological processes. In contrast
+  to human, the identification of LNC in farm species, like chicken, is still lacunar.
+  We propose a catalogue of 52,075 chicken genes enriched in LNC ( http://www.fragencode.org/
+  ), built from the Ensembl reference extended using novel LNC modelled here from
+  364 RNA-seq and LNC from four public databases. The Ensembl reference grew from
+  4,643 to 30,084 LNC, of which 59% and 41% with expression ≥ 0.5 and ≥ 1 TPM respectively.
+  Characterization of these LNC relatively to the closest protein coding genes (PCG)
+  revealed that 79% of LNC are in intergenic regions, as in other species. Expression
+  analysis across 25 tissues revealed an enrichment of co-expressed LNC:PCG pairs,
+  suggesting co-regulation and/or co-function. As expected LNC were more tissue-specific
+  than PCG (25% vs. 10%). Similarly to human, 16% of chicken LNC hosted one or more
+  miRNA. We highlighted a new chicken LNC, hosting miR155, conserved in human, highly
+  expressed in immune tissues like miR155, and correlated with immunity-related PCG
+  in both species. Among LNC:PCG pairs tissue-specific in the same tissue, we revealed
+  an enrichment of divergent pairs with the PCG coding transcription factors, as for
+  example LHX5, HXD3 and TBX4, in both human and chicken.
+featured: false
+publication: '*Scientific Reports*'
+tags:
+- '"Functional genomics"'
+- '"Gene expression"'
+- '"Gene regulation"'
+- '"Genetics"'
+- '"Genome"'
+- '"Genomics"'
+url_pdf: http://www.nature.com/articles/s41598-020-77586-x
+doi: 10.1038/s41598-020-77586-x
 ---
 
