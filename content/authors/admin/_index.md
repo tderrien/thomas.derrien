@@ -27,13 +27,13 @@ education:
   courses:
   - course : Postdoctoral researcher in Prof Roderic Guigó s team 
     institution: CRG (Barcelonan, SP)
-    year: 2008
+    year: 2008-2011
   - course: PhD in comparative genomics
     institution: UMR6061 (Rennes, FR)
-    year: 2004
+    year: 2004-2007
   - course: Master in bioinformatics 
-    institution: Master EGOISt (Rouen - FR)
-    year: 2002 
+    institution: Master Bioinformatic (Rouen - FR)
+    year: 2002 - 2004
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
