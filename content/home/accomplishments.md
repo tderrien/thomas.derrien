@@ -19,17 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Nominated member"
+  organization = "CNRS Nominated member"
   organization_url = "https://www.cnrs.fr/comitenational/sections/section.php?sec=21"
   title = "CNRS section 21"
   url = ""
 #  certificate_url = "httpNRS section 21
-  date_start = "2020-10"
-  date_end = "2021-07"
+  date_start = "2020-10-01"
+  date_end = "2021-07-01"
   description = ""
 
 [[item]]
-  organization = "Nominated member"
+  organization = "INRAE Nominated member"
 #  organization_url = "https://www.edx.org"
   title = "INRAE MISTI"
   url = ""
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "IGDR laboratory Council"
   url = ""
   certificate_url = "https://igdr.univ-rennes1.fr/en/organisation"
-  date_start = "2017"
+  date_start = "2017-01-01"
 #  date_end = "..."
   description = ""
 
