@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-10-20"
-  date_end = "..."
+#  date_end = "..."
   description = "INRAE Researcher evaluation"
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://igdr.univ-rennes1.fr/en/organisation"
   date_start = "2017"
-  date_end = "..."
+#  date_end = "..."
   description = ""
 
 +++
