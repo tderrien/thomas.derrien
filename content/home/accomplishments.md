@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.cnrs.fr/comitenational/sections/section.php?sec=21"
   title = "CNRS section 21"
   url = ""
-#  certificate_url = "httpNRS section 21
+  certificate_url = "https://www.cnrs.fr/comitenational/sections/section.php?sec=21"
   date_start = "2020-10-01"
   date_end = "2021-06-30"
   description = ""
