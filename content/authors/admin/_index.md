@@ -6,7 +6,7 @@ title: Thomas Derrien
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher CNRS
+role: Researcher CNRS
 
 # Organizations/Affiliations to show in About widget
 organizations:
