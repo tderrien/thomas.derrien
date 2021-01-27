@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true# Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Animation/Formation
+title = "Animation/Formation"
 subtitle = ""
 
 # Date format
@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
 #  certificate_url = "httpNRS section 21
   date_start = "2020-10-01"
-  date_end = "2021-07-01"
+  date_end = "2021-06-30"
   description = ""
 
 [[item]]
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-10-20"
-#  date_end = "..."
+  date_end = "..."
   description = "INRAE Researcher evaluation"
   
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://igdr.univ-rennes1.fr/en/organisation"
   date_start = "2017-01-01"
-#  date_end = "..."
+  date_end = "..."
   description = ""
 
 +++
