@@ -1,0 +1,468 @@
+---
+title: An integrated encyclopedia of DNA elements in the human genome
+date: '2012-01-01'
+draft: true
+publishDate: '2021-06-30T13:50:34.675714Z'
+authors:
+- Ian Dunham
+- Anshul Kundaje
+- Shelley F. Aldred
+- Patrick J. Collins
+- Carrie A. Davis
+- Francis Doyle
+- Charles B. Epstein
+- Seth Frietze
+- Jennifer Harrow
+- Rajinder Kaul
+- Jainab Khatun
+- Bryan R. Lajoie
+- Stephen G. Landt
+- Bum Kyu Lee
+- Florencia Pauli
+- Kate R. Rosenbloom
+- Peter Sabo
+- Alexias Safi
+- Amartya Sanyal
+- Noam Shoresh
+- Jeremy M. Simon
+- Lingyun Song
+- Nathan D. Trinklein
+- Robert C. Altshuler
+- Ewan Birney
+- James B. Brown
+- Chao Cheng
+- Sarah Djebali
+- Xianjun Dong
+- Jason Ernst
+- Terrence S. Furey
+- Mark Gerstein
+- Belinda Giardine
+- Melissa Greven
+- Ross C. Hardison
+- Robert S. Harris
+- Javier Herrero
+- Michael M. Hoffman
+- Sowmya Iyer
+- Manolis Kellis
+- Pouya Kheradpour
+- Timo Lassmann
+- Qunhua Li
+- Xinying Lin
+- Georgi K. Marinov
+- Angelika Merkel
+- Ali Mortazavi
+- Stephen C.J. Parker
+- Timothy E. Reddy
+- Joel Rozowsky
+- Felix Schlesinger
+- Robert E. Thurman
+- Jie Wang
+- Lucas D. Ward
+- Troy W. Whitfield
+- Steven P. Wilder
+- Weisheng Wu
+- Hualin S. Xi
+- Kevin Y. Yip
+- Jiali Zhuang
+- Bradley E. Bernstein
+- Eric D. Green
+- Chris Gunter
+- Michael Snyder
+- Michael J. Pazin
+- Rebecca F. Lowdon
+- Laura A.L. Dillon
+- Leslie B. Adams
+- Caroline J. Kelly
+- Julia Zhang
+- Judith R. Wexler
+- Peter J. Good
+- Elise A. Feingold
+- Gregory E. Crawford
+- Job Dekker
+- Laura Elnitski
+- Peggy J. Farnham
+- Morgan C. Giddings
+- Thomas R. Gingeras
+- Roderic Guigó
+- Timothy J. Hubbard
+- W. James Kent
+- Jason D. Lieb
+- Elliott H. Margulies
+- Richard M. Myers
+- John A. Stamatoyannopoulos
+- Scott A. Tenenbaum
+- Zhiping Weng
+- Kevin P. White
+- Barbara Wold
+- Yanbao Yu
+- John Wrobel
+- Brian A. Risk
+- Harsha P. Gunawardena
+- Heather C. Kuiper
+- Christopher W. Maier
+- Ling Xie
+- Xian Chen
+- Tarjei S. Mikkelsen
+- Shawn Gillespie
+- Alon Goren
+- Oren Ram
+- Xiaolan Zhang
+- Li Wang
+- Robbyn Issner
+- Michael J. Coyne
+- Timothy Durham
+- Manching Ku
+- Thanh Truong
+- Matthew L. Eaton
+- Alex Dobin
+- Andrea Tanzer
+- Julien Lagarde
+- Wei Lin
+- Chenghai Xue
+- Brian A. Williams
+- Chris Zaleski
+- Maik Röder
+- Felix Kokocinski
+- Rehab F. Abdelhamid
+- Tyler Alioto
+- Igor Antoshechkin
+- Michael T. Baer
+- Philippe Batut
+- Ian Bell
+- Kimberly Bell
+- Sudipto Chakrabortty
+- Jacqueline Chrast
+- Joao Curado
+- Thomas Derrien
+- Jorg Drenkow
+- Erica Dumais
+- Jackie Dumais
+- Radha Duttagupta
+- Megan Fastuca
+- Kata Fejes-Toth
+- Pedro Ferreira
+- Sylvain Foissac
+- Melissa J. Fullwood
+- Hui Gao
+- David Gonzalez
+- Assaf Gordon
+- Cédric Howald
+- Sonali Jha
+- Rory Johnson
+- Philipp Kapranov
+- Brandon King
+- Colin Kingswood
+- Guoliang Li
+- Oscar J. Luo
+- Eddie Park
+- Jonathan B. Preall
+- Kimberly Presaud
+- Paolo Ribeca
+- Daniel Robyr
+- Xiaoan Ruan
+- Michael Sammeth
+- Kuljeet Singh Sandhu
+- Lorain Schaeffer
+- Lei Hoon See
+- Atif Shahab
+- Jorgen Skancke
+- Ana Maria Suzuki
+- Hazuki Takahashi
+- Hagen Tilgner
+- Diane Trout
+- Nathalie Walters
+- Huaien Wang
+- Yoshihide Hayashizaki
+- Alexandre Reymond
+- Stylianos E. Antonarakis
+- Gregory J. Hannon
+- Yijun Ruan
+- Piero Carninci
+- Cricket A. Sloan
+- Katrina Learned
+- Venkat S. Malladi
+- Matthew C. Wong
+- Galt P. Barber
+- Melissa S. Cline
+- Timothy R. Dreszer
+- Steven G. Heitner
+- Donna Karolchik
+- Vanessa M. Kirkup
+- Laurence R. Meyer
+- Jeffrey C. Long
+- Morgan Maddren
+- Brian J. Raney
+- Linda L. Grasfeder
+- Paul G. Giresi
+- Anna Battenhouse
+- Nathan C. Sheffield
+- Kimberly A. Showers
+- Darin London
+- Akshay A. Bhinge
+- Christopher Shestak
+- Matthew R. Schaner
+- Seul Ki Kim
+- Zhuzhu Z. Zhang
+- Piotr A. Mieczkowski
+- Joanna O. Mieczkowska
+- Zheng Liu
+- Ryan M. McDaniell
+- Yunyun Ni
+- Naim U. Rashid
+- Min Jae Kim
+- Sheera Adar
+- Zhancheng Zhang
+- Tianyuan Wang
+- Deborah Winter
+- Damian Keefe
+- Vishwanath R. Iyer
+- Meizhen Zheng
+- Ping Wang
+- Jason Gertz
+- Jost Vielmetter
+- E. Christopher Partridge
+- Katherine E. Varley
+- Clarke Gasper
+- Anita Bansal
+- Shirley Pepke
+- Preti Jain
+- Henry Amrhein
+- Kevin M. Bowling
+- Michael Anaya
+- Marie K. Cross
+- Michael A. Muratet
+- Kimberly M. Newberry
+- Kenneth McCue
+- Amy S. Nesmith
+- Katherine I. Fisher-Aylor
+- Barbara Pusey
+- Gilberto DeSalvo
+- Stephanie L. Parker
+- Sreeram Balasubramanian
+- Nicholas S. Davis
+- Sarah K. Meadows
+- Tracy Eggleston
+- J. Scott Newberry
+- Shawn E. Levy
+- Devin M. Absher
+- Wing H. Wong
+- Matthew J. Blow
+- Axel Visel
+- Len A. Pennachio
+- Hanna M. Petrykowska
+- Alexej Abyzov
+- Bronwen Aken
+- Daniel Barrell
+- Gemma Barson
+- Andrew Berry
+- Alexandra Bignell
+- Veronika Boychenko
+- Giovanni Bussotti
+- Claire Davidson
+- Gloria Despacio-Reyes
+- Mark Diekhans
+- Iakes Ezkurdia
+- Adam Frankish
+- James Gilbert
+- Jose Manuel Gonzalez
+- Ed Griffiths
+- Rachel Harte
+- David A. Hendrix
+- Toby Hunt
+- Irwin Jungreis
+- Mike Kay
+- Ekta Khurana
+- Jing Leng
+- Michael F. Lin
+- Jane Loveland
+- Zhi Lu
+- Deepa Manthravadi
+- Marco Mariotti
+- Jonathan Mudge
+- Gaurab Mukherjee
+- Cedric Notredame
+- Baikang Pei
+- Jose Manuel Rodriguez
+- Gary Saunders
+- Andrea Sboner
+- Stephen Searle
+- Cristina Sisu
+- Catherine Snow
+- Charlie Steward
+- Electra Tapanari
+- Michael L. Tress
+- Marijke J. Van Baren
+- Stefan Washietl
+- Laurens Wilming
+- Amonida Zadissa
+- Zhengdong Zhang
+- Michael Brent
+- David Haussler
+- Alfonso Valencia
+- Nick Addleman
+- Roger P. Alexander
+- Raymond K. Auerbach
+- Suganthi Balasubramanian
+- Keith Bettinger
+- Nitin Bhardwaj
+- Alan P. Boyle
+- Alina R. Cao
+- Philip Cayting
+- Alexandra Charos
+- Yong Cheng
+- Catharine Eastman
+- Ghia Euskirchen
+- Joseph D. Fleming
+- Fabian Grubert
+- Lukas Habegger
+- Manoj Hariharan
+- Arif Harmanci
+- Sushma Iyengar
+- Victor X. Jin
+- Konrad J. Karczewski
+- Maya Kasowski
+- Phil Lacroute
+- Hugo Lam
+- Nathan Lamarre-Vincent
+- Jin Lian
+- Marianne Lindahl-Allen
+- Renqiang Min
+- Benoit Miotto
+- Hannah Monahan
+- Zarmik Moqtaderi
+- Xinmeng J. Mu
+- Henriette O'Geen
+- Zhengqing Ouyang
+- Dorrelyn Patacsil
+- Debasish Raha
+- Lucia Ramirez
+- Brian Reed
+- Minyi Shi
+- Teri Slifer
+- Heather Witt
+- Linfeng Wu
+- Xiaoqin Xu
+- Koon Kiu Yan
+- Xinqiong Yang
+- Kevin Struhl
+- Sherman M. Weissman
+- Luiz O. Penalva
+- Subhradip Karmakar
+- Raj R. Bhanvadia
+- Alina Choudhury
+- Marc Domanus
+- Lijia Ma
+- Jennifer Moran
+- Alec Victorsen
+- Thomas Auer
+- Lazaro Centanin
+- Michael Eichenlaub
+- Franziska Gruhl
+- Stephan Heermann
+- Burkhard Hoeckendorf
+- Daigo Inoue
+- Tanja Kellner
+- Stephan Kirchmaier
+- Claudia Mueller
+- Robert Reinhardt
+- Lea Schertel
+- Stephanie Schneider
+- Rebecca Sinn
+- Beate Wittbrodt
+- Jochen Wittbrodt
+- Gaurav Jain
+- Gayathri Balasundaram
+- Daniel L. Bates
+- Rachel Byron
+- Theresa K. Canfield
+- Morgan J. Diegel
+- Douglas Dunn
+- Abigail K. Ebersol
+- Tristan Frum
+- Kavita Garg
+- Erica Gist
+- R. Scott Hansen
+- Lisa Boatman
+- Eric Haugen
+- Richard Humbert
+- Audra K. Johnson
+- Ericka M. Johnson
+- Tattyana V. Kutyavin
+- Kristen Lee
+- Dimitra Lotakis
+- Matthew T. Maurano
+- Shane J. Neph
+- Fiedencio V. Neri
+- Eric D. Nguyen
+- Hongzhu Qu
+- Alex P. Reynolds
+- Vaughn Roach
+- Eric Rynes
+- Minerva E. Sanchez
+- Richard S. Sandstrom
+- Anthony O. Shafer
+- Andrew B. Stergachis
+- Sean Thomas
+- Benjamin Vernot
+- Jeff Vierstra
+- Shinny Vong
+- Hao Wang
+- Molly A. Weaver
+- Yongqi Yan
+- Miaohua Zhang
+- Joshua M. Akey
+- Michael Bender
+- Michael O. Dorschner
+- Mark Groudine
+- Michael J. MacCoss
+- Patrick Navas
+- George Stamatoyannopoulos
+- Kathryn Beal
+- Alvis Brazma
+- Paul Flicek
+- Nathan Johnson
+- Margus Lukk
+- Nicholas M. Luscombe
+- Daniel Sobral
+- Juan M. Vaquerizas
+- Serafim Batzoglou
+- Arend Sidow
+- Nadine Hussami
+- Sofia Kyriazopoulou-Panagiotopoulou
+- Max W. Libbrecht
+- Marc A. Schaub
+- Webb Miller
+- Peter J. Bickel
+- Balazs Banfai
+- Nathan P. Boley
+- Haiyan Huang
+- Jingyi Jessica Li
+- William Stafford Noble
+- Jeffrey A. Bilmes
+- Orion J. Buske
+- Avinash D. Sahu
+- Peter V. Kharchenko
+- Peter J. Park
+- Dannon Baker
+- James Taylor
+- Lucas Lochovsky
+publication_types:
+- '2'
+abstract: The human genome encodes the blueprint of life, but the function of the
+  vast majority of its nearly three billion bases is unknown. The Encyclopedia of
+  DNA Elements (ENCODE) project has systematically mapped regions of transcription,
+  transcription factor association, chromatin structure and histone modification.
+  These data enabled us to assign biochemical functions for 80% of the genome, in
+  particular outside of the well-studied protein-coding regions. Many discovered candidate
+  regulatory elements are physically associated with one another and with expressed
+  genes, providing new insights into the mechanisms of gene regulation. The newly
+  identified elements also show a statistical correspondence to sequence variants
+  linked to human disease, and can thereby guide interpretation of this variation.
+  Overall, the project provides new insights into the organization and regulation
+  of our genes and genome, and is an expansive resource of functional annotations
+  for biomedical research.
+featured: false
+publication: '*Nature*'
+doi: 10.1038/nature11247
+---
+

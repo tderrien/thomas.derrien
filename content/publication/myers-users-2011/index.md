@@ -1,0 +1,340 @@
+---
+title: A user's guide to the Encyclopedia of DNA elements (ENCODE)
+date: '2011-01-01'
+draft: true
+publishDate: '2021-06-30T13:50:34.946116Z'
+authors:
+- Richard M. Myers
+- John Stamatoyannopoulos
+- Michael Snyder
+- Ian Dunham
+- Ross C. Hardison
+- Bradley E. Bernstein
+- Thomas R. Gingeras
+- W. James Kent
+- Ewan Birney
+- Barbara Wold
+- Gregory E. Crawford
+- Charles B. Epstein
+- Noam Shoresh
+- Jason Ernst
+- Tarjei S. Mikkelsen
+- Pouya Kheradpour
+- Xiaolan Zhang
+- Li Wang
+- Robbyn Issner
+- Michael J. Coyne
+- Timothy Durham
+- Manching Ku
+- Thanh Truong
+- Lucas D. Ward
+- Robert C. Altshuler
+- Michael F. Lin
+- Manolis Kellis
+- Carrie A. Davis
+- Philipp Kapranov
+- Alexander Dobin
+- Christopher Zaleski
+- Felix Schlesinger
+- Philippe Batut
+- Sudipto Chakrabortty
+- Sonali Jha
+- Wei Lin
+- Jorg Drenkow
+- Huaien Wang
+- Kim Bell
+- Ian Bell
+- Hui Gao
+- Erica Dumais
+- Jacqueline Dumais
+- Stylianos E. Antonarakis
+- Catherine Ucla
+- Christelle Borel
+- Roderic Guigo
+- Sarah Djebali
+- Julien Lagarde
+- Colin Kingswood
+- Paolo Ribeca
+- Micha Sammeth
+- Tyler Alioto
+- Angelika Merkel
+- Hagen Tilgner
+- Piero Carninci
+- Yoshihide Hayashizaki
+- Timo Lassmann
+- Hazuki Takahashi
+- Rehab F. Abdelhamid
+- Gregory Hannon
+- Katalin Toth Fejes
+- Jonathan Preall
+- Assaf Gordon
+- Vihra Sotirova
+- Alexandre Reymond
+- Cedric Howald
+- Emilie Aït Yahya Graison
+- Jacqueline Chrast
+- Yijun Ruan
+- Xiaoan Ruan
+- Atif Shahab
+- Wan Ting Poh
+- Chia Lin Wei
+- Terrence S. Furey
+- Alan P. Boyle
+- Nathan C. Sheffield
+- Lingyun Song
+- Yoichiro Shibata
+- Teresa Vales
+- Deborah Winter
+- Zhancheng Zhang
+- Darin London
+- Tianyuan Wang
+- Damian Keefe
+- Vishwanath R. Iyer
+- Bum Kyu Lee
+- Ryan M. McDaniell
+- Zheng Liu
+- Anna Battenhouse
+- Akshay A. Bhinge
+- Jason D. Lieb
+- Linda L. Grasfeder
+- Kimberly A. Showers
+- Paul G. Giresi
+- Seul K.C. Kim
+- Christopher Shestak
+- Florencia Pauli
+- Timothy E. Reddy
+- Jason Gertz
+- E. Christopher Partridge
+- Preti Jain
+- Rebekka O. Sprouse
+- Anita Bansal
+- Barbara Pusey
+- Michael A. Muratet
+- Katherine E. Varley
+- Kevin M. Bowling
+- Kimberly M. Newberry
+- Amy S. Nesmith
+- Jason A. Dilocker
+- Stephanie L. Parker
+- Lindsay L. Waite
+- Krista Thibeault
+- Kevin Roberts
+- Devin M. Absher
+- Ali Mortazavi
+- Brian Williams
+- Georgi Marinov
+- Diane Trout
+- Brandon King
+- Kenneth McCue
+- Anthony Kirilusha
+- Gilberto DeSalvo
+- Katherine Aylor Fisher
+- Henry Amrhein
+- Shirley Pepke
+- Jost Vielmetter
+- Gavin Sherlock
+- Arend Sidow
+- Serafim Batzoglou
+- Rami Rauch
+- Anshul Kundaje
+- Max Libbrecht
+- Elliott H. Margulies
+- Stephen C.J. Parker
+- Laura Elnitski
+- Eric D. Green
+- Tim Hubbard
+- Jennifer Harrow
+- Stephen Searle
+- Stephen C.J. Parker
+- Browen Aken
+- Adam Frankish
+- Toby Hunt
+- Gloria Despacio-Reyes
+- Mike Kay
+- Gaurab Mukherjee
+- Alexandra Bignell
+- Gary Saunders
+- Veronika Boychenko
+- Michael Brent
+- M. J. van Baren
+- Randall H. Brown
+- Mark Gerstein
+- Ekta Khurana
+- Suganthi Balasubramanian
+- Hugo Lam
+- Philip Cayting
+- Rebecca Robilotto
+- Zhi Lu
+- Thomas Derrien
+- Andrea Tanzer
+- David G. Knowles
+- Marco Mariotti
+- David Haussler
+- Rachel Harte
+- Mark Diekhans
+- Mike Lin
+- Alfonso Valencia
+- Michael Tress
+- Jose Manuel Rodriguez
+- Debasish Raha
+- Minyi Shi
+- Ghia Euskirchen
+- Fabian Grubert
+- Maya Kasowski
+- Jin Lian
+- Phil Lacroute
+- Youhan Xu
+- Hannah Monahan
+- Dorrelyn Patacsil
+- Teri Slifer
+- Xinqiong Yang
+- Alexandra Charos
+- Brian Reed
+- Linfeng Wu
+- Raymond K. Auerbach
+- Lukas Habegger
+- Manoj Hariharan
+- Joel Rozowsky
+- Alexej Abyzov
+- Sherman M. Weissman
+- Kevin Struhl
+- Nathan Lamarre-Vincent
+- Marianne Lindahl-Allen
+- Benoit Miotto
+- Zarmik Moqtaderi
+- Joseph D. Fleming
+- Peter Newburger
+- Peggy J. Farnham
+- Seth Frietze
+- Henriette O'Geen
+- Xiaoqin Xu
+- Kim R. Blahnik
+- Alina R. Cao
+- Sushma Iyengar
+- Rajinder Kaul
+- Robert E. Thurman
+- Hao Wang
+- Patrick A. Navas
+- Richard Sandstrom
+- Peter J. Sabo
+- Molly Weaver
+- Theresa Canfield
+- Kristen Lee
+- Shane Neph
+- Vaughan Roach
+- Alex Reynolds
+- Audra Johnson
+- Eric Rynes
+- Erika Giste
+- Shinny Vong
+- Jun Neri
+- Tristan Frum
+- Eric D. Nguyen
+- Abigail K. Ebersol
+- Minerva E. Sanchez
+- Hadar H. Sheffer
+- Dimitra Lotakis
+- Eric Haugen
+- Richard Humbert
+- Tanya Kutyavin
+- Tony Shafer
+- William S. Noble
+- Job Dekker
+- Bryan R. Lajoie
+- Amartya Sanyal
+- Kate R. Rosenbloom
+- Timothy R. Dreszer
+- Brian J. Raney
+- Galt P. Barber
+- Laurence R. Meyer
+- Cricket A. Sloan
+- Venkat S. Malladi
+- Melissa S. Cline
+- Katrina Learned
+- Vanessa K. Swing
+- Ann S. Zweig
+- Brooke Rhead
+- Pauline A. Fujita
+- Krishna Roskin
+- Donna Karolchik
+- Robert M. Kuhn
+- Steven P. Wilder
+- Daniel Sobral
+- Javier Herrero
+- Kathryn Beal
+- Margus Lukk
+- Alvis Brazma
+- Juan M. Vaquerizas
+- Nicholas M. Luscombe
+- Peter J. Bickel
+- Nathan Boley
+- James B. Brown
+- Qunhua Li
+- Haiyan Huang
+- Andrea Sboner
+- Kevin Y. Yip
+- Chao Cheng
+- Koon Kiu Yan
+- Nitin Bhardwaj
+- Jing Wang
+- Lucas Lochovsky
+- Justin Jee
+- Theodore Gibson
+- Jing Leng
+- Jiang Du
+- Robert S. Harris
+- Giltae Song
+- Webb Miller
+- Bernard Suh
+- Benedict Paten
+- Michael M. Hoffman
+- Orion J. Buske
+- Zhiping Weng
+- Xianjun Dong
+- Jie Wang
+- Hualin Xi
+- Scott A. Tenenbaum
+- Frank Doyle
+- Sridar Chittur
+- Luiz O. Penalva
+- Thomas D. Tullius
+- Kevin P. White
+- Subhradip Karmakar
+- Alec Victorsen
+- Nader Jameel
+- Nick Bild
+- Robert L. Grossman
+- Patrick J. Collins
+- Nathan D. Trinklein
+- Morgan C. Giddings
+- Jainab Khatun
+- Chris Maier
+- Ting Wang
+- Troy W. Whitfield
+- Xian Chen
+- Yanbao Yu
+- Harsha Gunawardena
+- Elise A. Feingold
+- Rebecca F. Lowdon
+- Laura A.L. Dillon
+- Peter J. Good
+- Brian Risk
+publication_types:
+- '2'
+abstract: The mission of the Encyclopedia of DNA Elements (ENCODE) Project is to enable
+  the scientific and medical communities to interpret the human genome sequence and
+  apply it to understand human biology and improve health. The ENCODE Consortium is
+  integrating multiple technologies and approaches in a collective effort to discover
+  and define the functional elements encoded in the human genome, including genes,
+  transcripts, and transcriptional regulatory regions, together with their attendant
+  chromatin states and DNA methylation patterns. In the process, standards to ensure
+  high-quality data have been implemented, and novel algorithms have been developed
+  to facilitate analysis. Data and derived results are made available through a freely
+  accessible database. Here we provide an overview of the project and the resources
+  it is generating and illustrate the application of ENCODE data to interpret the
+  human genome.
+featured: false
+publication: '*PLoS Biology*'
+doi: 10.1371/journal.pbio.1001046
+---
+
