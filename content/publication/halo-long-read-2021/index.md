@@ -2,7 +2,6 @@
 title: Long-read assembly of a Great Dane genome highlights the contribution of GC-rich
   sequence and mobile elements to canine genomes
 date: '2021-03-01'
-draft: true
 publishDate: '2021-06-30T13:50:35.187658Z'
 authors:
 - Julia V. Halo
