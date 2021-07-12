@@ -89,7 +89,7 @@ subtitle = "Genome Annotation"
 ## Genome Annotation 
   - LncRNA Annotation and classification with [FEELnc](https://github.com/tderrien/FEELnc).
   - LncRNAs characterisation in canine cancers.
-  - Long-read sequencing with Oxford Nanopore Technologies (ONT) at [IGDR gitlab](https://gitlab.com/tderrien/igdrion).
+  - Long-read sequencing with Oxford Nanopore Technologies (ONT) at [IGDR LR sequencing](https://igdr.univ-rennes1.fr/en/third-generation-sequencing).
 
 ## Deep Learning for genomics
   - Using DL methods for [gene expression predictions](https://github.com/calico/basenji) and testing the impact of non-coding mutations.
