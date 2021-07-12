@@ -2,7 +2,6 @@
 title: Identification of common predisposing loci to hematopoietic cancers in four
   dog breeds
 date: '2021-04-01'
-draft: true
 publishDate: '2021-06-30T13:50:35.544251Z'
 authors:
 - Benoît Hédan
