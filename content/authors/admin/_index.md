@@ -18,7 +18,8 @@ bio: My research interests include computational biology/bioinformatics, (dog) t
 
 # Interests to show in About widget
 interests:
-- Transcriptome sequencing and lncRNAs
+- Transcriptome sequencing using short (SR-RNASeq) and long (LR-RNASeq) sequencing technologies
+- Long non-coding RNAs (lncRNAs) in human and domesticated species
 - Machine Learning
 - Canine genomics
 

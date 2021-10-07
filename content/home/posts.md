@@ -66,5 +66,5 @@ subtitle = "News"
  # CSS class.
  css_class = ""
 +++
- - We have a new postodoc position for working on lncRNAs, CRISPR and cancers!!  [More details](https://twitter.com/david_GILOT/status/1322912764608786432) with my colleague to contact David Gilot.
+ - We have a new postodoc position for working on lncRNAs, CRISPR and cancers (2021)!!  If you are interested in Nanopore sequencing and lncRNA annotation, please see [here for more details](https://twitter.com/ThomasDerrien7/status/1443496457751961604?s=20).
  - Feel free to [contact us](https://thomas-derrien.netlify.app/#contact) if your are interested in bioinformatics and long read sequencing strategies.
